@@ -1,0 +1,68 @@
+html{
+    height:70%;
+}
+#startsidabody{
+    padding:0;
+    margin:0;
+    height:100%; 
+}
+body{
+    padding:0;
+    margin:0;
+    height:100%;
+}
+#iframe{
+    height:100%;
+    width:100%;
+    border:0;
+    overflow:hidden;
+}
+#HIFLogga{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:144px;
+    height:161px;
+}
+#HIFStart{
+    width:100%;
+    box-shadow: 2px 4px #888888;
+}
+#menutable{
+    width:100%;
+    padding:0;
+    background-color: #f6f6f6;
+}
+.line{
+    height:18px;
+    width:2px;
+    background-color: black;
+    opacity:0.6;
+}
+.mhover:hover{
+    background-color:gray;
+}
+.menutext{
+    font-size:15px;
+}
+
+#bildright{
+    float:left;
+    padding:10px;
+    width: 20%;
+    padding-top: 0px;
+
+}
+
+.bildertillhöger{
+    display: inline-block;
+    border:solid grey 1px;
+    width:100%;
+    height:100%;
+}
+
+#iochn{
+    border:solid black 1px;
+    display: inline-block;
+    width:50%;
+}
