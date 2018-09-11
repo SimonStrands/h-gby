@@ -1,0 +1,16 @@
+#löttorp{
+    background-color:red;
+    width:47%;
+    float:left;
+    padding:1%;
+}
+#kalmar{
+    background-color: pink;
+    width:47%;
+    float:right;
+    padding:1%;
+}
+
+.center{
+    text-align: center;
+}
